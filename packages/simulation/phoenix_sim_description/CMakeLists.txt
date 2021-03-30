@@ -1,7 +1,7 @@
 # CMake installation file for the ezrassor_sim_description ROS package.
 # Written by Ron Marrero.
 cmake_minimum_required(VERSION 2.8.3)
-project(ezrassor_sim_description)
+project(phoenix_sim_description)
 find_package(catkin REQUIRED)
 catkin_package()
 install(

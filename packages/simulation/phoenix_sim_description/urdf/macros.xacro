@@ -49,11 +49,11 @@
     </xacro:macro>
 
     <xacro:macro name="robot_wheel">
-        <mesh filename="package://ezrassor_sim_description/meshes/wheel.dae" scale="0.35 0.35 0.35"></mesh>  
+        <mesh filename="package://phoenix_sim_description/meshes/wheel.dae" scale="0.35 0.35 0.35"></mesh>  
     </xacro:macro>
     
     <xacro:macro name="base_unit">
-        <mesh filename="package://ezrassor_sim_description/meshes/base_unit.dae" scale="0.35 0.35 0.35"></mesh>
+        <mesh filename="package://phoenix_sim_description/meshes/base_unit.dae" scale="0.35 0.35 0.35"></mesh>
     </xacro:macro>
 
     <xacro:macro name="drum_arm">
